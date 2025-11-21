@@ -34,18 +34,48 @@ PROCEDURE:
 3.   Connect the capacitor filter and observe the waveforms. Note down and calculate ripple factor, rectifier efficiency and %regulation using the expressions. Repeat for different capacitor values.
 4.   Repeat the above steps for full wave and bridge rectifiers.
 
-CIRCUIT DIAGRAMS
+## CIRCUIT DIAGRAMS
 
 Half wave rectifier with filter:
 
+<img width="857" height="425" alt="509723075-33ef9e63-b359-4670-8f65-d115e6262f43" src="https://github.com/user-attachments/assets/f563ff3e-634c-49e7-b275-e75173570184" />
+
+
+Half wave rectifier without filter:
+
+<img width="837" height="377" alt="509723343-ad6970fb-8c04-4849-81c5-3d5bd460fedd" src="https://github.com/user-attachments/assets/0dc5ab22-84e0-4a72-8e1b-deab606d886e" />
+
 Bridge rectifier with filter:
 
-TABULAR COLUMN
-Rectifier without filter
-TABULAR COLUMN
-Rectifier with filter
+<img width="881" height="401" alt="509723825-5ac7c88a-b46a-403a-bba0-3ceca4b8086c" src="https://github.com/user-attachments/assets/80903592-96cc-4587-a040-33736ea9530f" />
 
-WAVEFORM:
+Bridge rectifier without filter:
+
+<img width="830" height="343" alt="509724170-962cacfb-c8d0-47ac-ae04-6bbf9c539507" src="https://github.com/user-attachments/assets/8be9eed0-9052-4ae5-bd61-028e78280758" />
+
+
+
+TABULAR COLUMN
+
+![WhatsApp Image 2025-11-21 at 18 32 42_97c482d6](https://github.com/user-attachments/assets/d59b0504-78e7-40e7-8d0d-4d822f6662c0)
+
+
+![WhatsApp Image 2025-11-21 at 18 32 43_8d5447a7](https://github.com/user-attachments/assets/7700d45d-c80b-42f6-a3d5-df746870d3fd)
+
+
+## WAVEFORM:
+
+Half wave rectifier:
+
+<img width="891" height="573" alt="509726123-e7fad6af-cb08-4533-94fc-cd17159d3caa" src="https://github.com/user-attachments/assets/62350803-ab48-4ec5-8ce7-8a20727ca240" />
+
+<img width="890" height="567" alt="509726558-121e3f04-539d-4001-9c39-88fa0ddad182" src="https://github.com/user-attachments/assets/bf35b795-4861-48ed-8364-1f1c3e88e4a5" />
+
+Bridge rectifier:
+
+<img width="902" height="577" alt="509727062-e60a0319-6027-4807-9094-466769d31979" src="https://github.com/user-attachments/assets/d68539e5-9cc7-4b34-be94-75b3e501cc5e" />
+
+<img width="905" height="577" alt="509727312-b31dc0a1-fa21-4986-9c6f-ec39116e7752" src="https://github.com/user-attachments/assets/fedead36-49f4-4613-94f9-e4d894a43b34" />
 
 
 RESULT:
